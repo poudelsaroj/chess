@@ -1,8 +1,4 @@
-# Chess
-Amid the virtual education, quarantine, and social distancing due to COVID-19, playing online games has been a healthy escape for us. With Chess being one of the most favorite online games played among the students, we thought - why not create our own online chess game for fun recreation and social engagement? Here is our attempt.
 
-## Technical Documentation 
-[Project Report](https://github.com/Yunika-Bajracharya/Chess/blob/main/Project_Report.pdf)
 
 ## Dependencies
 * SDL2
@@ -11,7 +7,7 @@ Amid the virtual education, quarantine, and social distancing due to COVID-19, p
 ## How to use this? 🛠
 Click on the image below for set up and usage instructions!
 
-<p align="left"><a href = "https://github.com/Yunika-Bajracharya/Chess/blob/main/installation.md">
+[<p align="left"><a href = "https://github.com/Yunika-Bajracharya/Chess/blob/main/installation.md">]
 <img src = "./readme_assets/setup_installation.png" width="400"></a></p>
 
 ## Screenshots
