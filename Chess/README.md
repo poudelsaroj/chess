@@ -7,7 +7,7 @@
 ## How to use this? 🛠
 Click on the image below for set up and usage instructions!
 
-[<p align="left"><a href = "https://github.com/Yunika-Bajracharya/Chess/blob/main/installation.md">]
+[<p align="left"><a href = "https://github.com/poudelsaroj/chess/blob/main/Chess/installation.md">]
 <img src = "./readme_assets/setup_installation.png" width="400"></a></p>
 
 ## Screenshots
