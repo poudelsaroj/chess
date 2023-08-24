@@ -5,9 +5,9 @@
 * SDL2_image, SDL2_mixer, SDL2_ttf
 
 ## How to use this? 🛠
-Click on the image below for set up and usage instructions!
+Click on the link below for set up and usage instructions!
 
-<p align="left"><a href = "https://github.com/poudelsaroj/chess/blob/main/Chess/installation.md">
+<p align="left"><a href = "https://github.com/poudelsaroj/chess/blob/main/Chess/installation.md">click on this</a>
 </p>
 
 ## Screenshots
